@@ -121,14 +121,19 @@ li {
     width: 50%;
 }
 
-.apresentacao__conteudo__titulo_certificados {
+.apresentacao__conteudo__certificados {
+    padding: 2% 9%;
     font-size: 2.0rem;
-    font-family: var(--fonte-primaria);
-    
+    font-family: var(--fonte-secundaria);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 80px
 }
 
 .imagem-sobre-mim {
     width: 50%;
+    display: flex;
     
 }
 
