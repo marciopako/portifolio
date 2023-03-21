@@ -153,6 +153,7 @@ li {
     
     .cabecalho__menu {
         justify-content: center;
+        gap: 30px;
     }
 
     .apresentacao {
